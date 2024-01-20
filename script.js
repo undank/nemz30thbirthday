@@ -17,7 +17,7 @@ timer = null;
 //Opening a wrap
 console.log('wat', card);
 openB.addEventListener('click', function () {
-  sound.currentTime = 0;
+sound.currentTime = 0;
   sound.play();
   sound.loop = true;
   card.setAttribute('class', 'open-half');
