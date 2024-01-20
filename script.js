@@ -1,6 +1,6 @@
 //Fetching audio
 var sound = new Audio();
-sound.src = "youare30.mp3";
+sound.src = "youare30reduced.mp3";
 var eff = document.getElementById('parent');
 
 
